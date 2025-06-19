@@ -7,11 +7,11 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## How it works|
 
 In this project there are two inputs and we are testing AND gate
 
-## How to test
+## How to test|
 
 |  A      | B      |   AND  |
 |---------|--------|--------|
@@ -21,6 +21,6 @@ In this project there are two inputs and we are testing AND gate
 | 1       | 1      | 1      |
 
 
-## External hardware
+## External hardware|
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
